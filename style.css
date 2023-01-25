@@ -1,0 +1,147 @@
+.navbar{
+    background-color: white !important;
+    box-shadow: 0px 2px 2px #d6d6d6;
+
+}
+.nav-link:hover{
+    color: #db0007 !important;
+}
+.fa-location-dot{
+    color: red;
+    font-size: 18px;
+}
+.btn1{
+    background-color: #ffbc0d !important;
+    border: none;
+    height: 40px;
+    border-radius: 3px;
+    padding: 5px;
+    width: 185px;
+}
+
+.carousel-inner{
+    margin-top: 30px;
+}
+.card{
+    margin-bottom: 20px;
+    width: 335px !important;
+    height: 440px !important;
+    border: 1px solid #d6d6d6 ;
+}
+.container1{
+    margin-top: 70px;
+}
+.card-title{
+    color:#db0007;
+    font-weight: 800 !important;
+    text-align: center;
+    margin-top: 15px;
+}
+.card-text{
+    text-align: center;
+    margin-top: 40px;
+}
+.btn-primarypop{
+    margin-top: 50px;
+    background-color: #ffbc0d;
+    width: 129px;
+    height: 40px;
+    border-radius: 4px;
+}
+.btn-primary {
+    background-color: #ffbc0d;
+    color: black;
+    border: none;
+    width: 129px;
+    height: 40px;
+    border-radius: 4px;
+}
+.btn-primary1{
+    width:139 ;
+    background-color: #ffbc0d;
+    margin-top: 50px;
+    height: 40px;
+    border-radius: 4px;
+}
+.footer{
+    display: flex;
+    margin: 35px;
+    flex-wrap: wrap;
+}
+.footer1{
+    padding-left: 85px;
+}
+.footer2{
+    padding-left: 95px;
+}
+.footer3{
+    padding-left: 95px;
+}
+.footer4{
+    padding-left: 95px;
+}
+.footer5{
+    
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 75px;
+}
+.footer6{
+    padding-left: 45px;
+}
+.footer7,.footer8,.footer9,.footer10,.footer11{
+    padding-left: 45px;
+}
+.footer12{
+    padding-left: 30px;
+    flex-wrap: wrap;
+}
+.footer13{
+    padding-left: 30px;
+}
+.line{
+    margin: 70px;
+}
+.footer14{
+    display: flex;
+    margin: 45px;
+    flex-wrap: wrap;
+}
+.footer15,.footer16,.footer17{
+    padding-left: 35px;
+}
+.footer18{
+    padding-left: 95px;
+}
+.fa-circle-chevron-up{
+    color: #db0007;
+    padding-left: 75px;
+    font-size: 40px;
+}
+.bm{
+    margin-top: 25px;
+    color:black;
+    font-weight: bold;
+    font-size: 60px;
+}
+.mcd{
+    display: flex;
+    margin: 45px;
+    flex-wrap: wrap;
+}
+.mcd1{
+    padding-left: 100px;
+}
+.mcd2{
+    padding-left: 105px;
+}
+.mcd3{
+    padding-left: 105px;
+}
+.fa-brands{
+    color: black;
+}
+.fa-brands:hover{
+    color: blue;
+}
+
